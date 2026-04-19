@@ -1,27 +1,32 @@
 # Hi, I'm Berk Aybey 👋
 
-### AI Engineer & Data Scientist 
-**Bridging Machine Learning, Signal Processing, and Security**
+### AI Engineer & Machine Learning Engineer
+**Bridging Deep Learning, Signal Processing, and Data Security**
 
-I am an Electrical and Electronics Engineer with an MSc in Telecommunications Engineering, driven by a passion for science and the exploration of new frontiers in technology. My expertise lies at the intersection of **Machine Learning, Deep Learning, and Security**, specifically applied to **Wireless Body Area Networks (WBAN)**.
-
-Throughout my academic journey and projects, I have focused on developing intelligent systems that enhance data security and healthcare monitoring. I thrive on transforming complex datasets into actionable insights and robust AI models.
+I am an Electrical & Electronics Engineer and an MSc Telecommunications Engineering graduate from **Politecnico di Milano**. My expertise lies at the intersection of **Anomaly Detection, Sequence Modeling (LSTM/RNN), and Signal Processing**. I specialize in transforming massive, complex datasets (up to 1.5M+ samples) into robust AI models and actionable technical insights.
 
 ---
 
-## 🚀 Professional Focus
-- **AI & Digital Health:** Focusing on the secure analysis of physiological and molecular data.
-- **Data Engineering:** Building robust and secure health data pipelines for biological signal processing.
-- **Deep Learning:** Applying LSTM architectures and Genetic Algorithms to solve complex cybersecurity and bio-signal problems.
+### 🚀 Professional Focus
 
-## 🛡️ Core Competencies
-- **Fields:** Machine Learning (ML), Deep Learning (DL), Data Science, Signal Processing.
-- **Tools & Tech:** Python (PyTorch, TensorFlow, Keras), SQL, MATLAB.
-- **Specialization:** WBAN Security, Telecommunications, and AI-based Anomaly Detection.
+* **Deep Learning & Anomaly Detection:** Applying LSTM architectures and Genetic Algorithms to identify patterns in high-frequency data streams (Cybersecurity & Bio-signals).
+* **Predictive Modeling:** Developing end-to-end ML pipelines for complex scenarios including Customer Lifetime Value (CLTV), Fraud Detection, and healthcare diagnostics.
+* **Data Engineering:** Building secure and scalable pipelines for heterogeneous data sources, focusing on data governance and statistical validation.
 
-## 🎓 Education
-- **M.S. in Telecommunications Engineering** | Politecnico di Milano
-- **B.S. in Electrical and Electronics Engineering** | Işık University
+### 🛡️ Core Competencies
+
+* **Machine Learning:** Supervised/Unsupervised Learning, Time-Series Analysis, Ensemble Methods (XGBoost, Random Forest).
+* **Deep Learning:** PyTorch, TensorFlow, Keras (Focus: Sequence and CNN architectures).
+* **Engineering Tools:** Python (Pandas, NumPy, Scikit-learn), SQL, MATLAB (Parallel Computing), Git, Docker.
+* **Specialization:** WBAN Security, AI-based Intrusion Detection, and Feature Engineering for technical domains.
+
+### 🎓 Education
+
+* **M.S. in Telecommunications Engineering** | Politecnico di Milano
+* **B.S. in Electrical and Electronics Engineering** | Işık University
 
 ---
-*I am currently seeking opportunities as a Data Scientist or AI Engineer where I can apply my analytical mindset to solve real-world problems and contribute to innovative AI-driven projects.*
+
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/berk-aybey-3837b5118) | aybey.berk@gmail.com
+
+*"Driven by engineering discipline, I solve real-world problems through data-driven innovation."*
